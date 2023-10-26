@@ -13,7 +13,7 @@ body{
     height: 500px;
     background: red;
     overflow: hidden;
-    background : url(photo-1601068674997-00ddd7344c40.avif) no-repeat center / cover;
+    background : url(2.avif) no-repeat center / cover;
     border-radius: 10px;
     box-shadow: 5px, 20px 50px, #000;
 }
